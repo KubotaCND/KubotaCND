@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi there👋, I'm Camila Nori Dias Kubota! 🐉</h1>
-<h3 align="left">With a degree in Technological Chemistry, I bring solid experience in research projects, including two years of scientific initiation in the area of materials chemistry, funded by CNPQ, and a project in Theoretical Physical Chemistry. 
+<h3 align="left"><p></p>With a degree in Technological Chemistry, I bring solid experience in research projects, including two years of scientific initiation in the area of materials chemistry, funded by CNPQ, and a project in Theoretical Physical Chemistry. </p>
   <br>
-  My expertise includes laboratory routines, understanding of English bibliographies, and use of data systems. Additionally, I have intermediate skills in Excel to efficiently organize and control activities. I am an analytical person, easy to get along with, and I possess skills in areas such as education, marketing, and data handling. 
+  <p></p>My expertise includes laboratory routines, understanding of English bibliographies, and use of data systems. Additionally, I have intermediate skills in Excel to efficiently organize and control activities. I am an analytical person, easy to get along with, and I possess skills in areas such as education, marketing, and data handling. </p>
   <br>
 
-  I am seeking to transition into the field of technology, where I already have programming skills in languages such as Python, R, SQL, C#, CSS, HTML, JavaScript, and C, as well as experience with the Linux environment. I am ready to make significant contributions to projects in this field.<br></h3>
+  <p>I am seeking to transition into the field of technology, where I already have programming skills in languages such as Python, R, SQL, C#, CSS, HTML, JavaScript, and C, as well as experience with the Linux environment. I am ready to make significant contributions to projects in this field.</p></h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KubotaCND](https://github.com/KubotaCND)
 
